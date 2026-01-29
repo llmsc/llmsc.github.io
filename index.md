@@ -43,19 +43,16 @@ Here are some valuable resources for understanding the Large Language Model Supp
 We invite submissions on topics including but not limited to:
 
 - **LLM Supply Chain Ecosystem Modeling**
-
   - Modeling and analysis of open-source model or LLM toolchain ecosystems
   - Ecosystem evolution analysis over time
 
 - **Best SE Practice for LLM Toolchain**
-
   - Horizontal comparison of LLM development tools
   - Developer-centric perspectives on LLM toolchains
   - Bug detection and repair for LLM development tools
   - Best practices for developing LLM-integrated applications
 
 - **Governance of LLM Supply Chain Ecosystems**
-
   - Model provenance and license compliance
   - Standardization in LLM supply chain ecosystems
 
@@ -129,6 +126,7 @@ All dates are 23:59:59 AoE (UTC-12h):
 - [**Marius Fleischer**](https://www.linkedin.com/in/marius-fleischer/), NVIDIA
 - [**Nusrat Zahan**](https://www.nzahan.net/), North Carolina State University
 - [**Xiaofei Xie**](https://xiaofeixie.bitbucket.io/), Singapore Management University
+- [**Yuede Ji**](https://yuede.github.io/), University of Texas at Arlington
 
 <span class='anchor' id='contact'></span>
 
