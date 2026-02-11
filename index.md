@@ -92,7 +92,7 @@ We welcome the following two types of submissions:
 
 All dates are 23:59:59 AoE (UTC-12h):
 
-- **Paper Submission Deadline**: February 12th, 2026
+- **Paper Submission Deadline**: February 20th, 2026
 - **Notification of Acceptance**: March 19th, 2026
 - **Camera-Ready Papers Due**: April 2nd, 2026
 - **Workshop Data:** July 5, 2026
