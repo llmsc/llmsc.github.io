@@ -120,13 +120,16 @@ All dates are 23:59:59 AoE (UTC-12h):
 #### 👩‍💻👨‍💻 **Program Committee**
 
 - [**Chengwei Liu**](https://lcwj3.github.io/), Nanyang Technological University
+- [**Chuan Yan**](https://yanchuan390.github.io/), University of Queensland
 - [**Guozhu Meng**](https://impillar.github.io/), Institute of Information Engineering, Chinese Academy of Sciences
 - [**Kaifeng Huang**](https://kaifeng-h.github.io/), Tongji University
 - [**Lingyun Ying**](https://scholar.google.com/citations?user=eJXxo-gAAAAJ&hl=zh-CN), QI-ANXIN Technology Research Institute
 - [**Marius Fleischer**](https://www.linkedin.com/in/marius-fleischer/), NVIDIA
 - [**Nusrat Zahan**](https://www.nzahan.net/), North Carolina State University
 - [**Xiaofei Xie**](https://xiaofeixie.bitbucket.io/), Singapore Management University
+- [**Xiaoyu Zhang**](https://shiningrain.github.io/), Nanyang Technological University
 - [**Yuede Ji**](https://yuede.github.io/), University of Texas at Arlington
+- [**Zheng Wang**](https://infocondb.org/presenter/zheng-wang), Tencent Security Xuanwu Lab
 
 <span class='anchor' id='contact'></span>
 
