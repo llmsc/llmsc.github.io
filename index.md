@@ -77,7 +77,7 @@ The motivation of this workshop is to provide a platform for researchers, practi
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">15:15-15:30</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Benchmarking MCP Vulnerability Detection from a Paired Evaluation Perspective</td>
+      <td style="text-align: left; font-weight: bold; color: green;">Benchmarking MCP Vulnerability Detection from a Paired Evaluation Perspective (Remote)</td>
       <td style="text-align: left; font-weight: bold;">Zhenghao Tang, Zhenyu Zang, Kaifeng Huang</td>
     </tr>
     <tr>
